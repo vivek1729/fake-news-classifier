@@ -11,3 +11,5 @@ Automatic fake news detection is a challenging problem in deception detection, a
 4. Extensively used Stochastic Gradient Descent and Tensorboard to visualize and develop intuition on convergence of these models. LSTM models tend to overfit easily. Dropout was used for regularization
 
 Detailed project report can be found in the pdf file `repo.pdf`
+
+I have included both the jupyter notebook and the cleaned python code in the repo. The cleaned python code can be found in `run.py`
